@@ -1,0 +1,19 @@
+
+h3{
+    color: red;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+fieldset {
+    display: inline;
+}
+
+#top {
+    background-color: purple;
+    color: white;
+}
+
+#tdown {
+    background-color: rgb(143, 66, 143);
+    color: white;
+}
